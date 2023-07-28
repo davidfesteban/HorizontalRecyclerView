@@ -1,4 +1,4 @@
-package com.iberdrola.clientes.presentation.views.customviews.horizontalrecyclerview;
+
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
