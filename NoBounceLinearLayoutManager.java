@@ -1,4 +1,4 @@
-package com.iberdrola.clientes.presentation.views.customviews.horizontalrecyclerview;
+
 
 import android.content.Context;
 import android.support.v7.widget.LinearLayoutManager;
