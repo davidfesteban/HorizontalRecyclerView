@@ -1,4 +1,4 @@
-package com.iberdrola.clientes.presentation.views.customviews.horizontalrecyclerview;
+
 
 import android.support.v7.widget.LinearSnapHelper;
 import android.support.v7.widget.RecyclerView;
